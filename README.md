@@ -1,13 +1,15 @@
 # 🌍 Geophysics Data Analysis
 
-This repository contains geophysical data analysis using **Python** and **MATLAB**.
+Repository ini berisi contoh visualisasi & analisis data geofisika menggunakan **Python** dan **MATLAB**.
 
-## 📊 Features
-- **Gravity Data Visualization** – Plot & analyze gravity data.
-- **Seismic Waveform Processing** – Process & analyze seismic signals.
-- **Example Datasets** – Small datasets for testing scripts.
+## 🚀 Fitur Utama
+- 📊 **Gravity Data Visualization** – Plot & analisis data gravitasi.
+- 🌊 **Seismic Waveform Processing** – Analisis sinyal seismik.
+- 📂 **Example Datasets** – Dataset untuk pengujian skrip.
 
-## 📂 Folder Structure
+---
+
+## 📂 Struktur Folder  
 ```plaintext
 geophysics-data-analysis/
 ├── python_scripts/   # Python scripts for data analysis
